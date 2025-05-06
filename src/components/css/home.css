@@ -10,11 +10,10 @@ html, body {
   font-family: "Poppins", "Comic Sans MS", cursive, sans-serif;
   background-color: transparent;
   overflow-x: hidden;
-  background: url('./bg-home/home-gif.gif') no-repeat center center;
 }
 
 .home-container {
-/*   background: url('./bg-home/home-gif.gif') no-repeat center center; */
+  background: url('./bg-home/home-gif.gif') no-repeat center center;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
