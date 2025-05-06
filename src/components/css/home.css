@@ -14,7 +14,7 @@ html, body {
 }
 
 .home-container {
-  background: url('./bg-home/home-gif.gif') no-repeat center center;
+/*   background: url('./bg-home/home-gif.gif') no-repeat center center; */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
